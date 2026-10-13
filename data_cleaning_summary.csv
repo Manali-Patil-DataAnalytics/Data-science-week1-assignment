@@ -1,0 +1,10 @@
+Check,Result
+Rows before cleaning,5000
+Rows after cleaning,4996
+Rows removed,4
+Columns,12
+Missing cells before cleaning,18
+Missing cells after cleaning,0
+Duplicate rows before cleaning,0
+Duplicate rows after cleaning,0
+Repeated order IDs after cleaning,0
